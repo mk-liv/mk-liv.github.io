@@ -1,0 +1,137 @@
+body
+
+{
+background-image:url("food.JPG");
+background-size:cover;
+}
+
+div.container
+{
+width:70%;
+border:1px solid gray;
+line-height:100%;
+margin-right:auto;
+margin-left:auto;
+margin-top:25px;
+background-color:#d2d2e0;
+}
+
+header,footer
+{
+	font-size: 14px; 
+clear:both;
+text-align: center; 
+font-family: "Verdana" 
+}
+
+header img
+{
+width:100%;
+vertical-align:middle;
+}
+
+footer
+{
+	font-size:	40px;
+padding:10px;
+color:white;
+background-color:#8585ad;
+font-family: "Trebuchet MS"
+}
+
+nav 
+{
+width:100%;
+background-color:#8585ad;
+}
+
+nav ul 
+{
+margin:0;
+padding:0;
+list-style-type:none;
+}
+
+nav ul li 
+{
+display:inline-block;
+margin:0;
+padding:6px 0;
+}
+
+nav a 
+{  
+display:block;
+width:190px;
+font-weight:bold;
+color:white;
+padding:6px;
+text-decoration:none;
+outline:0;	 
+}
+
+nav li:hover 
+{  
+background-color:lightblue;
+}
+
+nav a:hover 
+{  
+color:black;
+}
+
+article
+{
+float:left;
+width:70%;
+padding:1% 3%;
+color:navy; 
+font-family: "Trebuchet MS"
+}
+
+article figure
+{
+float:left;
+border:0px solid black;
+margin-left:5px;
+margin-right:20px;
+text-align:center;
+}
+
+article table
+{
+margin:0;
+margin-right:auto;
+margin-left:auto;
+border: 2px solid black;
+}
+
+article td
+{
+padding:3px 12px;
+border:1px solid gray;
+}
+
+aside 
+{
+width:22%;
+float:left;
+padding:1%;
+color:white;
+font-family: "Verdana";
+background-color:#666699;
+}
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+

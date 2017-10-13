@@ -1,0 +1,45 @@
+
+
+
+Body { background: lavender;
+		Color: Indigo;
+		Font size: 14pt;
+Font-family: 'Raleway' , sans-serif ; }
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p { 
+    word-spacing: 30px;
+} 
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+</style>
+</head>
+
+
+
+p {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
